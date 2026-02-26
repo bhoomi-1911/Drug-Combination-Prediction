@@ -3,6 +3,6 @@ pandas
 numpy
 torch
 torch-geometric
-rdkit-pypi
+rdkit==2023.9.6 
 scikit-learn
 Pillow
